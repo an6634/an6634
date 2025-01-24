@@ -1,9 +1,11 @@
 <h1>Hi, I'm Alex! </h1>
 
-<h2>👨‍💻 Fundamental Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/LABURL)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/alexcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/alexcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/alexcc/ticket-lifecycle)
 
 
 <h2>📺 Popular YouTube Videos</h2>
