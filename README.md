@@ -23,7 +23,5 @@
 [<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Alex | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/alex
-[youtube]: https://www.youtube.com/c/alex
-[instagram]: https://www.instagram.com/alex/
-[linkedin]: https://linkedin.com/in/alex
+[Connect with me on LinkedIn][linkedin]: https://www.linkedin.com/in/alex-nguyen-b6ba0a290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA2UCv5z%2FT5Os3nTEqRYuBQ%3D%3D
+[View my Google Docs Resume][google docs]: https://docs.google.com/document/d/1TgUFF3W3cwf3CT0U81u_j3abFQqKHQykbQBWAUbmY1g/edit?usp=sharing
