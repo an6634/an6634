@@ -1,5 +1,15 @@
 <h1>Hi, I'm Alex! ☺️</h1>
-<h3>🌐 Cybersecurity Enthusiast | IT Professional | ☁️ Azure Expert</h3>
+<h3>🌐 Cybersecurity Enthusiast | IT Professional | Technical Support Specialist</h3>
+
+<p>
+I am a passionate and driven IT professional with a background in cybersecurity, cloud computing, server repair, Linux, and automation. My hands-on experience spans networking, system administration, and scripting, enabling me to troubleshoot and optimize IT environments effectively. My recent work includes deploying and managing enterprise-grade Active Directory environments, configuring secure network architectures, and automating administrative tasks with PowerShell. 
+<p>
+With a Bachelor's degree in Cybersecurity and Information Assurance from Western Governors University (expected January 2026), I am continuously expanding my expertise to stay ahead in the ever-evolving tech landscape. I am currently pursuing my CompTIA A+ certification for an immediate goal. Additionally, I plan to earn CompTIA Network+ and Security+ certifications to further validate my technical expertise and commitment to IT security and operations.
+
+
+<p>
+I enjoy tackling complex technical challenges and contributing to open-source projects that enhance cybersecurity awareness and IT efficiency. My ultimate goal is to leverage my security, cloud infrastructure, and software development skills to create innovative and resilient IT solutions.
+</p>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -28,7 +38,7 @@
 - [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
-<h2>🌄 GitHub Stats</h2>
+<h2>📊 GitHub Analytics</h2>
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexcc&show_icons=true&hide=prs,issues&count_private=true&theme=radical)
 
@@ -57,7 +67,7 @@
 - **ITIL Foundation** (March 2025)
 - **CompTIA Security+** (April 2025)
 
-<h2>🫹 Connect with Me:</h2>
+<h2>📬 Connect with Me:</h2>
 
 [<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Alex | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:alexlnguyenconnect@gmail.com)
