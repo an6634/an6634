@@ -13,6 +13,11 @@ I enjoy tackling complex technical challenges and contributing to open-source pr
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>🌐 Hybrid Cloud Failover: Azure and AWS</b>
+  - [GitHub Repository](https://github.com/an6634/HybridCloudFailover)
+  - **Summary**: Designed a hybrid cloud failover solution integrating AWS and Azure to ensure high availability and disaster recovery. Demonstrates cloud networking, redundancy strategies, and automation for seamless failover between cloud providers.
+  - **Key Skills**: Azure Site Recovery, AWS Route 53, VPC Peering, Hybrid Networking, Automation
+
 - <b>osTicket Lab: IT Ticketing System</b>
   - [View Full Documentation](https://docs.google.com/document/d/1TgUFF3W3cwf3CT0U81u_j3abFQqKHQykbQBWAUbmY1g/edit?usp=sharing)
   - **Summary**: Deployed and configured an osTicket system for IT support workflows. Gained hands-on experience with IIS, PHP, and MySQL integration.
