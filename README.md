@@ -37,12 +37,6 @@ I enjoy tackling complex technical challenges and contributing to open-source pr
 
 - [View My Project Portfolio (Google Docs)](https://docs.google.com/document/d/1TgUFF3W3cwf3CT0U81u_j3abFQqKHQykbQBWAUbmY1g/edit?usp=sharing)
 
-<h2>🕺 Popular Videos & Tutorials</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-
 <h2>📊 GitHub Analytics</h2>
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexcc&show_icons=true&hide=prs,issues&count_private=true&theme=radical)
