@@ -6,7 +6,7 @@ I am a passionate and driven IT professional with a background in cybersecurity,
 </p>
 
 <p>
-I am currently pursuing a Bachelor of Science in Cybersecurity and Information Assurance from Western Governors University (expected January 2026). To strengthen my foundation and prepare for specialized roles, I am actively working toward earning my CompTIA A+ certification. In the near future, I plan to pursue CompTIA Network+ and Security+ certifications to further validate my expertise in networking, systems, and cybersecurity.
+I am pursuing a Bachelor of Science in Cybersecurity and Information Assurance from Western Governors University (expected January 2026). I am actively working toward earning my CompTIA A+ certification to strengthen my foundation and prepare for specialized roles. Shortly, I plan to pursue CompTIA Network+ and Security+ certifications to further validate my expertise in networking, systems, and cybersecurity.
 </p>
 
 <p>
