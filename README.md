@@ -2,10 +2,12 @@
 <h3>🌐 Cybersecurity Enthusiast | IT Professional | Technical Support Specialist</h3>
 
 <p>
-I am a passionate and driven IT professional with a background in cybersecurity, cloud computing, server repair, Linux, and automation. My hands-on experience spans networking, system administration, and scripting, enabling me to troubleshoot and optimize IT environments effectively. My recent work includes deploying and managing enterprise-grade Active Directory environments, configuring secure network architectures, and automating administrative tasks with PowerShell. 
-<p>
-With a Bachelor's degree in Cybersecurity and Information Assurance from Western Governors University (expected January 2026), I am continuously expanding my expertise to stay ahead in the ever-evolving tech landscape. I am currently pursuing my CompTIA A+ certification for an immediate goal. Additionally, I plan to earn CompTIA Network+ and Security+ certifications to further validate my technical expertise and commitment to IT security and operations.
+I am a passionate and driven IT professional with a background in cybersecurity, cloud computing, server repair, Linux, and automation. My hands-on experience spans networking, system administration, and scripting, enabling me to troubleshoot and optimize IT environments effectively. My recent work includes deploying and managing enterprise-grade Active Directory environments, configuring secure network architectures, and automating administrative tasks with PowerShell.
+</p>
 
+<p>
+I am currently pursuing a Bachelor of Science in Cybersecurity and Information Assurance from Western Governors University (expected January 2026). To strengthen my foundation and prepare for specialized roles, I am actively working toward earning my CompTIA A+ certification. In the near future, I plan to pursue CompTIA Network+ and Security+ certifications to further validate my expertise in networking, systems, and cybersecurity.
+</p>
 
 <p>
 I enjoy tackling complex technical challenges and contributing to open-source projects that enhance cybersecurity awareness and IT efficiency. My ultimate goal is to leverage my security, cloud infrastructure, and software development skills to create innovative and resilient IT solutions.
@@ -57,18 +59,18 @@ I enjoy tackling complex technical challenges and contributing to open-source pr
 
 <h2>🎓 Education</h2>
 
-- **Bachelor of Science in Cybersecurity and Information Assurance**
-  - Western Governors University (January 2024 – January 2026)
+- **Bachelor of Science in Cybersecurity and Information Assurance**  
+  Western Governors University (January 2024 – January 2026)
 
 <h2>🎓 Certifications</h2>
 
-- **CompTIA A+** (February 2025)
-- **ITIL Foundation** (March 2025)
-- **CompTIA Security+** (April 2025)
+- **CompTIA A+** (In Progress)
+- **CompTIA Network+** (Planned)
+- **CompTIA Security+** (Planned)
 
 <h2>📬 Connect with Me:</h2>
 
-[<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="Alex | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:alexlnguyenconnect@gmail.com)
 
 <br clear="left"/>
