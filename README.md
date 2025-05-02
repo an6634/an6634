@@ -15,11 +15,6 @@ I enjoy tackling complex technical challenges and contributing to open-source pr
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>🌐 Hybrid Cloud Failover: Azure and AWS</b>
-  - [GitHub Repository](https://github.com/an6634/HybridCloudFailover)
-  - **Summary**: Designed a hybrid cloud failover solution integrating AWS and Azure to ensure high availability and disaster recovery. Demonstrates cloud networking, redundancy strategies, and automation for seamless failover between cloud providers.
-  - **Key Skills**: Azure Site Recovery, AWS Route 53, VPC Peering, Hybrid Networking, Automation
-
 - <b>osTicket Lab: IT Ticketing System</b>
   - [View Full Documentation](https://docs.google.com/document/d/1TgUFF3W3cwf3CT0U81u_j3abFQqKHQykbQBWAUbmY1g/edit?usp=sharing)
   - **Summary**: Deployed and configured an osTicket system for IT support workflows. Gained hands-on experience with IIS, PHP, and MySQL integration.
@@ -30,10 +25,16 @@ I enjoy tackling complex technical challenges and contributing to open-source pr
   - **Summary**: Designed a hybrid Active Directory environment integrated with Azure, showcasing enterprise-level cloud resource management.
   - **Key Skills**: Network security, domain services, security policy enforcement, and cost optimization.
 
+- <b>🌐 Hybrid Cloud Failover: Azure and AWS</b>
+  - [GitHub Repository](https://github.com/an6634/HybridCloudFailover)
+  - **Summary**: Designed a hybrid cloud failover solution integrating AWS and Azure to ensure high availability and disaster recovery. Demonstrates cloud networking, redundancy strategies, and automation for seamless failover between cloud providers.
+  - **Key Skills**: Azure Site Recovery, AWS Route 53, VPC Peering, Hybrid Networking, Automation
+
 - <b>Python Fitness App</b>
   - [GitHub Repository](https://github.com/your-repo/python-fitness-app)
   - **Summary**: Built a fitness tracking app to monitor daily calorie and protein intake. Integrated data visualization using Matplotlib.
   - **Key Skills**: Python programming, data structures, visualization, and CLI design.
+
 
 <h2>📄 Project Portfolio</h2>
 
@@ -46,6 +47,8 @@ I enjoy tackling complex technical challenges and contributing to open-source pr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcc&layout=compact&theme=radical)
 
 <h2>🛠️ Skills & Tools</h2>
+
+<!-- Core Strengths: Technical Support, Troubleshooting, Ticketing Systems, Customer Service -->
 
 <p>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40"/>
